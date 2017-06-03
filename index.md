@@ -15,4 +15,4 @@ layout: default
 <label><span class="auto-style2">Female</span></label>
 <input type="radio" name="sex" value="2" class="newStyle9">
 <label style="font-size: larger">Male</label><br /><br />
-<button type="submit" name="submit">
+<button type="submit" name="submit">Submit</button>

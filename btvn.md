@@ -7,3 +7,9 @@
 - The Anh: https://ti6745.github.io/
 - Hieu: https://hieu02.github.io/hieu/hieu1.html
 - Khoa: khoapip
+
+# Phan Nhom
+1. Khoa - Hoang
+2. Hieu - Quang Anh
+3. Linh - Truong
+4. The Anh - Long

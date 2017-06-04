@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
+# Cao Tung Linh
 ## Đăng kí tài khoản mới
 ## Register new account
+
+- Linh
+- Long
+- Hoang
+- Quang Anh
 
 <input type="text" data-type="text" name="family" placeholder="Family" required="1" class="newStyle4" />&nbsp;
 <input type="text" data-type="text" name="name" placeholder="Name" required="1" class="newStyle5" /><br /><br />
